@@ -2,9 +2,8 @@
 
 Je conçois et développe des interfaces web — du design à l'intégration,
 en passant par l'animation et l'expérience utilisateur.
-Je travaille en full remote et je cherche à rejoindre une équipe
+Je cherche à rejoindre une équipe
 où la qualité du détail compte.
-
 ---
 
 ## Stack
@@ -37,4 +36,4 @@ Je documente cette approche dans mes projets.
 
 ---
 
-📍 Québec · Full remote · [philippeverlain@gmail.com](mailto:philippeverlain@gmail.com)
+📍 Québec · Disponible · [philippeverlain@gmail.com](mailto:philippeverlain@gmail.com)
