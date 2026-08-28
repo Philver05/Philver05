@@ -2,8 +2,8 @@
 
 Je conçois et développe des interfaces web — du design à l'intégration,
 en passant par l'animation et l'expérience utilisateur.
-Je cherche à rejoindre une équipe
-où la qualité du détail compte.
+Je cherche à rejoindre une équipe où la qualité du détail compte.
+
 ---
 
 ## Stack
