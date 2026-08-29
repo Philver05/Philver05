@@ -1,6 +1,6 @@
 # Philippe Verlain
 
-Je conçois et développe des interfaces web — du design à l'intégration,
+Je conçois et développe des interfaces web, du design à l'intégration
 en passant par l'animation et l'expérience utilisateur.
 Je cherche à rejoindre une équipe où la qualité du détail compte.
 
@@ -30,8 +30,8 @@ Git · Vite · Firebase · WordPress · Cursor
 
 ## Ce que j'explore en ce moment
 
-J'intègre des outils IA dans mon flux de travail — Cursor, Claude, v0 —
-pour produire du code plus rapidement sans sacrifier la qualité.
+J'intègre Cursor, Claude et v0 dans mon flux de travail pour produire
+du code plus rapidement sans sacrifier la qualité.
 Je documente cette approche dans mes projets.
 
 ---
