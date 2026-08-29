@@ -36,4 +36,4 @@ Je documente cette approche dans mes projets.
 
 ---
 
-📍 Québec · Disponible · [philippeverlain@gmail.com](mailto:philippeverlain@gmail.com)
+Disponible · [philippeverlain@gmail.com](mailto:philippeverlain@gmail.com)
