@@ -1,8 +1,10 @@
 # Philippe Verlain
 
-Je conçois et développe des interfaces web, du design à l'intégration
-en passant par l'animation et l'expérience utilisateur.
-Je cherche à rejoindre une équipe où la qualité du détail compte.
+Je prends une maquette et je lui donne vie à l'écran.
+Du design à l'intégration, j'aime surtout le moment où tout se met en place
+et où le projet ressemble à ce qu'on avait en tête depuis le début.
+Mon obsession, ce sont les détails : l'animation au bon moment,
+l'interaction qu'on n'attendait pas.
 
 ---
 
@@ -23,7 +25,7 @@ Git · Vite · Firebase · WordPress · Cursor
 
 | Projet | Description | Stack |
 |---|---|---|
-| [Massothérapie AM](https://github.com/Philver05/massotherapieAM) | Site vitrine pour une cliente réelle | React · Tailwind v4 · Motion |
+| [Massothérapie AM](https://github.com/Philver05/massotherapieAM) | Site vitrine livré à une cliente réelle | React · Tailwind v4 · Motion |
 | [Le Vivier](https://github.com/Philver05/levivier-theme) | Thème WordPress développé from scratch | PHP · CSS · JS |
 
 ---
@@ -37,3 +39,5 @@ Je documente cette approche dans mes projets.
 ---
 
 Disponible · [philippeverlain@gmail.com](mailto:philippeverlain@gmail.com)
+
+Chaque plan compte.
